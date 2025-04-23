@@ -3,6 +3,7 @@
 This project automates the digital publishing workflow using Google Gemini for intelligent content generation and LangGraph for orchestrating multi-step processes.
 
 ## Features
+
 - Topic generation based on trending data
 - AI-assisted drafting, editing, and SEO optimization
 - Approval system for quality assurance
@@ -11,6 +12,7 @@ This project automates the digital publishing workflow using Google Gemini for i
 - Analytics-based feedback loop
 
 ## Technologies Used
+
 - Google Gemini (via API wrapper)
 - LangGraph (agent orchestration framework)
 - JavaScript/Node.js
